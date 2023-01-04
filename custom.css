@@ -6,7 +6,7 @@
   button i{
       position: relative;
       right: 8px;
-      font-size: 22px;
+      top: 0px;
   }
  #hide{
     display: none;
